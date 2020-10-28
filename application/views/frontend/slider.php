@@ -23,7 +23,8 @@
                     </div>
                 </div>
                 <a href="#">
-                    <img class="img-responsive" src="<?php echo base_url('assets/img/defaultSlider.jpg') ?>" alt="img">
+                    <img class="img-responsive" 
+                    src="<?php echo base_url('assets/img/Slider.png') ?>" alt="img">
                 </a>
             </div>
             <?php  } ?>
